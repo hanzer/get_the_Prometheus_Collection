@@ -11,7 +11,6 @@ wget https://archive.org/download/Project_Prometheus_2018-01/Project_Prometheus_
 wget https://archive.org/download/Project_Prometheus_2017-12/Project_Prometheus_2017-12_archive.torrent
 wget https://archive.org/download/Project_Prometheus_2017-11/Project_Prometheus_2017-11_archive.torrent
 wget https://archive.org/download/Project_Prometheus_2017-10/Project_Prometheus_2017-10_archive.torrent
-wget https://archive.org/download/Project_Prometheus_2017-10/Project_Prometheus_2017-10_archive.torrent
 wget https://archive.org/download/Project_Prometheus_2017-09/Project_Prometheus_2017-09_archive.torrent
 wget https://archive.org/download/Project_Prometheus_2017-08/Project_Prometheus_2017-08_archive.torrent
 wget https://archive.org/download/Project_Prometheus_2017-07/Project_Prometheus_2017-07_archive.torrent
