@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+wget https://archive.org/download/Immanentize_the_Eschaton/Immanentize_the_Eschaton_archive.torrent
 wget https://archive.org/download/Vote_for_Santa/Vote_for_Santa_archive.torrent
 wget https://archive.org/download/Illuminatus_Archive/Illuminatus_Archive_archive.torrent
 wget https://archive.org/download/MAAPSS_Project/MAAPSS_Project_archive.torrent
